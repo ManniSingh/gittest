@@ -1,6 +1,1 @@
-<<<<<<< HEAD
 this is a new test file added again and again and once again and again.
-=======
-this is a new test file added again and again and again.
->>>>>>> 4258ebb (c7)
-
